@@ -17,16 +17,3 @@
     filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
 }
 ---
-
-<style>
-.filter-green {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
